@@ -2,6 +2,7 @@ def unsafe?(speed)
 if speed < 40 : > 60
 	return nil
 end
+end
 
 
 
