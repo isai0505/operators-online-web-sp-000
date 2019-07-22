@@ -6,8 +6,6 @@ def unsafe?(speed)
 	#else
 		#return false
 	speed < 40 ? true : false
-
-end
 end
 
 
